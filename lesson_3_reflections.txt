@@ -24,4 +24,8 @@ You would have to send files to each other or all work on the same file somehow,
 
 I suppose you could make a copy of a working file and do it manually, but this system makes it more streamlined.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+You want to work on something but aren't sure you should add it to the main branch yet.
+
 
