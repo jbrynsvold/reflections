@@ -14,4 +14,8 @@ Clones are taken from github to your computer or from a computer to another comp
 
 Branches are done within a repository. 
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+So you can know the changes that have been made up until then, even if you haven't merged it yet. You can run a git diff to see those changes.
+
 
